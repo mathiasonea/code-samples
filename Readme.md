@@ -16,8 +16,8 @@ This is a small but handy package to prevent malicious code execution coming int
 It was created after being inspired by [@appelsiini](https://github.com/appelsiini)'s [talk on How to Hack your Laravel Application](https://speakerdeck.com/anamus/how-your-laravel-application-can-get-hacked-f7acca32-3721-4c06-9a2e-5965cd9a4a29)
 
 ## Laravel Framework Contribution
-[[8.x] Implement supportsTags() on the Cache Repository](https://github.com/laravel/framework/commit/d0043925217efb044d92736b1ec138d1d1be634b)
+- [[8.x] Implement supportsTags() on the Cache Repository](https://github.com/laravel/framework/commit/d0043925217efb044d92736b1ec138d1d1be634b)
 
 ## small projects coded on conferences
-https://github.com/mathiasonea/ipc19se-writing-really-good-code
-https://gitlab.com/mathias.onea/atm-tdd
+- https://github.com/mathiasonea/ipc19se-writing-really-good-code
+- https://gitlab.com/mathias.onea/atm-tdd
